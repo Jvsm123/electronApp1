@@ -1,0 +1,22 @@
+{
+  "name": "testandoelectron",
+  "version": "1.0.0",
+  "description": "Olá Mundo!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jvsm123/electronApp1.git"
+  },
+  "author": "Jvsm123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jvsm123/electronApp1/issues"
+  },
+  "homepage": "https://github.com/Jvsm123/electronApp1#readme",
+  "devDependencies": {
+    "electron": "^13.1.4"
+  }
+}
